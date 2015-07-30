@@ -2,7 +2,7 @@
 layout: post
 title:  "JavaScript Modular Note"
 date:  2015-06-21
-categories: JavaScript
+categories: sss
 featured_image: /images/js.jpg
 
 ---
