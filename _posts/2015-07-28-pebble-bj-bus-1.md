@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "【闲开发】Pebble北京公交实时提醒（1）"
-date:  2015-07-19
-categories: Ling-Lunch
-featured_image: /images/jun19post.jpg  
+date:  2015-07-28
+categories: 养鸡场
+featured_image: /images/jun28post.jpg  
 ---
 
 ### 任何东西，只要是玩具，都有玩腻的时候。  
