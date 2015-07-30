@@ -6,7 +6,7 @@ categories: 养鸡场
 featured_image: /images/jun28post.jpg  
 ---
 
-### 任何东西，只要是玩具，都有玩腻的时候。  
+### Pebble.js实现
 
 最近从某宝处入了一块Pebble Time。本欲仅用作消息提醒，但信手翻了Pebble的开发者文档，觉得可以帮我做更多的事，比如公交实时提醒。
 
