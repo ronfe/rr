@@ -1,19 +1,19 @@
 {
-  "name": "zchen9.github.io",
+  "name": "ronfe.github.io",
   "version": "1.0.0",
-  "description": "Hey, friends ~ Here is my blog ☞  [[Nice Shot !]](http://www.chen9.info/)",
+  "description": "Personal website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zchen9/zchen9.github.io.git"
+    "url": "https://github.com/ronfe/ronfe.github.io.git"
   },
-  "author": "zchen9 (zhao.zchen9@gmail.com)",
+  "author": "ronfe (chihungfei@126.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zchen9/zchen9.github.io/issues"
+    "url": "https://github.com/ronfe/ronfe.github.io/issues"
   },
-  "homepage": "https://github.com/zchen9/zchen9.github.io",
+  "homepage": "https://ronfe.io"
 }
