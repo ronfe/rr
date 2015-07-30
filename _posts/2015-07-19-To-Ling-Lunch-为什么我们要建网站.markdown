@@ -19,6 +19,5 @@ featured_image: /images/jun19post.jpg
 我觉得这样才是真正好用的网站，也有利于我们积累核心用户、获取捐赠乃至融资。  
 Talk is always cheap, I'll show you the code.  
 
----
 弘飞  7月19日夜，自宅  
 http://ronfe.io
