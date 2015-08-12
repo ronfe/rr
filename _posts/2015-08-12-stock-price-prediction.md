@@ -17,7 +17,7 @@ categories: 养鸡场
 
 我们可以从最简单、纯粹的例子开始思考。假设目标股票的股价是按照固定的斜率匀速下降，股价如何预报？例如：
 
-![Simple Graph](http://imgur.com/V5YCo6V ) 
+![Imgur](http://i.imgur.com/V5YCo6V.png) 
 
 图中为某四小时交易制股票市场中，某股票以10元开盘，2元收盘，盘中股价以匀速下降。
 
