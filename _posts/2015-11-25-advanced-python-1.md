@@ -39,6 +39,7 @@ categories: 技术学习
       i += 1
 
 最佳实践：
+
     seq = ['one', 'two', 'three']
     for i, element in enumarate(seq):
       seq[i] = '%d: %s' %(i, element)
