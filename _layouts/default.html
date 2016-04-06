@@ -42,7 +42,13 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-37332159-2', 'auto');
+  ga('set', 'userId', "abc"); // 使用已登录的 user_id 来设置用户 ID。
   ga('send', 'pageview');
+  ga('send', {
+                'hitType': 'event',
+                'eventAction': 'openpage',
+                'eventValue': 'sdsd'
+            });
 
 </script>
 
